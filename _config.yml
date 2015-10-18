@@ -2,7 +2,8 @@
 title: Bianca Miruna Popescu
 email: bianca.popescu2@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Transportation planning & engineering nerd, lover of travels, bicycles and cities
+  Transportation planning & engineering</br>
+  Lover of travels, bicycles and cities
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://biancapopescu.info" # the base hostname & protocol for your site
 twitter_username: bianca_miruna
