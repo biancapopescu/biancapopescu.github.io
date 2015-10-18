@@ -39,6 +39,12 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+        &:hover {
+         border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 5px;
+        }
     }
 
     @include media-query($on-palm) {
