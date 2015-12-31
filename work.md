@@ -4,9 +4,9 @@ title: Work
 permalink: /work/
 ---
 
-<div class="img">
-  <a target="_blank" href="\images/CPM.png">
-    <img src="CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="300" height="200">
+<div class="image">
+  <a target="_blank" href="\images\CPM.png">
+    <img src="CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="300" height="200"/>
   </a>
 </div>
 
