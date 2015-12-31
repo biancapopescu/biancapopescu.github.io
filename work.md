@@ -4,33 +4,27 @@ title: Work
 permalink: /work/
 ---
 
-<div class="image">
-    <img src="\images\CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="500" height="300"></img>
-</div>
+<a class="work-item" target="_blank" href="/blogData/Transportation_Sustainable_World.pdf">
+	<img src="\images\Safety_COV.jpeg" alt="Bicycle Safety: Infrastructure Analysis" />
+	<p class="work-title-fading">Bicycle Safety: Infrastructure Analysis</p>
+</a> 
 
+<a class="work-item" target="_blank" href="/blogData/Transportation_Sustainable_World.pdf">
+	<img src="\images\Safety_COV.jpeg" alt="Bicycle Safety: Infrastructure Analysis" />
+	<p class="work-title-fading">Bicycle Safety: Infrastructure Analysis</p>
+</a> 
 
-<div class="image">
-  <a target="_blank" href="/blogData\Transportation_Sustainable_World.pdf">
-    <img src="\images\Safety_COV.jpeg" alt="Bicycle Safety: Infrastructure Analysis" width="500" height="300"></img>
-	</a> 
-</div>
+<a class="work-item" target="_blank" href="/blogData/Transportation_Sustainable_World.pdf">
+	<img src="\images\Safety_COV.jpeg" alt="Bicycle Safety: Infrastructure Analysis" />
+	<p class="work-title-fading">Bicycle Safety: Infrastructure Analysis</p>
+</a> 
 
-<div class="image">
-    <img src="\images\CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="500" height="300"></img>
-</div>
+<a class="work-item" target="_blank" href="/blogData/Transportation_Sustainable_World.pdf">
+	<img src="\images\Safety_COV.jpeg" alt="Bicycle Safety: Infrastructure Analysis" />
+	<p class="work-title-fading">Bicycle Safety: Infrastructure Analysis</p>
+</a> 
 
-<div class="image">
-    <img src="\images\CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="500" height="300"></img>
-</div>
-
-<div class="image">
-    <img src="\images\CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="500" height="300"></img>
-</div>
-
-<div class="image">
-    <img src="\images\CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="500" height="300"></img>
-</div>
-
-<div class="image">
-    <img src="\images\CPM.png" alt="Thesis: Macro-Level Collision Prediction Models" width="500" height="300"></img>
-</div>
+<a class="work-item" target="_blank" href="/blogData/Transportation_Sustainable_World.pdf">
+	<img src="\images\Safety_COV.jpeg" alt="Bicycle Safety: Infrastructure Analysis" />
+	<p class="work-title-fading">Bicycle Safety: Infrastructure Analysis</p>
+</a> 

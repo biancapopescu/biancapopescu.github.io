@@ -261,23 +261,27 @@ a.site-title {
  * Work
  */
 
- div.image {
-    margin: 5px;
-    border: 1px solid #ccc;
+.work-item {
+    margin: 10px;
+    width: 250px;
+    height: 155px;
     float: left;
-    width: 180px;
+    border: 1px solid #ccc;
 }
 
-div.image:hover {
-    border: 1px solid #777;
-}
-
-div.image img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
+.work-item .work-title-fading {
+    opacity: 0;
+    background-color: #fff;
     text-align: center;
+    width: 100%;
+    transition: opacity 1s;
+}
+
+.work-item:hover .work-title-fading {
+    opacity: 1;
+}
+
+.work-item img {
+    min-width: 100%;
+    height: auto;
 }
