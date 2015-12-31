@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Infographic: Commuter Science"
-date:   2015-12-30 20:19:34
+date:   2015-12-31 20:19:34
 categories:  transportation, commute, traffic
 ---
 The National Geographic published this infographic comparing average hours spent in traffic per driver in North American and European cities (2012). Delays were estimated by comparing real-time traffic observations with data for a typical commute.
@@ -11,4 +11,4 @@ Everyone knows traffic is frustrating, but how much time of your life do you los
 Source: Zuckerman, Catherine. "Commuter Science." National Geographic Magazine Apr. 2014. National Geographic Virtual Library. Web. 30 Dec. 2015.
 
 
-![Commuter Science](\images\Commute_Traffic.jpg)
+![Commuter Science](\images\Commute_Traffic.png)
