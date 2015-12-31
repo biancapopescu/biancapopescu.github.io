@@ -267,14 +267,19 @@ a.site-title {
     height: 155px;
     float: left;
     border: 1px solid #ccc;
+    position: relative;
 }
 
 .work-item .work-title-fading {
     opacity: 0;
     background-color: #fff;
     text-align: center;
-    width: 100%;
     transition: opacity 1s;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
 }
 
 .work-item:hover .work-title-fading {
