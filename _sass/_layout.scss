@@ -268,25 +268,30 @@ a.site-title {
     float: left;
     border: 1px solid #ccc;
     position: relative;
+    font-weight: bolder;
 }
 
 .work-item .work-title-fading {
     opacity: 0;
     background-color: #fff;
     text-align: center;
+    vertical-align: middle;
     transition: opacity 1s;
     position: absolute;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
+    padding: 40px 0px 0px 0px;
 }
 
 .work-item:hover .work-title-fading {
-    opacity: 1;
+    opacity: 0.8;
 }
 
 .work-item img {
     min-height: 100%;
-    width: auto;
+    width: intrinsic;
+    max-height: 155px;
+    overflow: hidden;
 }
