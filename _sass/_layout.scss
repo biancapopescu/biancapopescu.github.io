@@ -182,7 +182,6 @@ a.site-title {
 .page-content {
     padding: $spacing-unit;
     margin-left: 20em;
-    font-weight:bold;
     font-family: "PT Sans", Helvetica, Arial, sans-serif;
 
     @include media-query($on-palm) {
