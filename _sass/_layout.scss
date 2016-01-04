@@ -12,9 +12,7 @@
     background-size: cover;
 
     @include media-query($on-palm) {
-        top: 0;
-        left: 0;
-        right: 0;
+        position: relative;
         width: auto;
         height: auto;
     }
