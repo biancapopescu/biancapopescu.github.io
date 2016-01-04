@@ -70,6 +70,10 @@ a.site-title {
 .contact-icons {
     font-size: 2em;
     text-align: center;
+
+     @include media-query($on-palm) {
+     font-size: 1em;
+     }
 }
 
 .site-links {
