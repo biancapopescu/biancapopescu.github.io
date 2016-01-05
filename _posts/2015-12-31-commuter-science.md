@@ -11,4 +11,4 @@ Everyone knows traffic is frustrating, but how much time of your life do you los
 Source: Zuckerman, Catherine. "Commuter Science." National Geographic Magazine Apr. 2014. National Geographic Virtual Library. Web. 30 Dec. 2015.
 
 
-![Commuter Science](\images\Commute_Traffic.png)
+![Commuter Science](/images/Commute_Traffic.png)

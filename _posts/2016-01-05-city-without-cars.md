@@ -11,4 +11,4 @@ During the holidays, as a pedestrian in my Kitsilano neighbourhood, I personally
 Source: John Bentley [Photos of Vancouver on Christmas Morning](http://www.huffingtonpost.ca/2015/12/29/photos-vancouver-christmas-morning_n_8891894.html?ir=Canada%20British%20Columbia)
 
 
-![Christmas in Vancouver](\images\COV_nocars.jpg)
+![Christmas in Vancouver](/images/COV_nocars.jpg)
