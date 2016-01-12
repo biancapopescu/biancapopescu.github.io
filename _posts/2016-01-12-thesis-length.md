@@ -11,7 +11,7 @@ Personally, I’ve only written about 40 pages so far but still need to finish m
 After asking myself how long does this thesis actually need to be, I decided to turn to the internet. The answer seems to be that it depends on your area of study, with Medicinal Chemistry and Science Technology and Environmental Policy as the longest thesis lengths and Psychology and Clinical Research as the shortest. Just my luck, my field, Civil Engineering, is found to be on the long side, between about 60 to 110 pages with an average of about 90 pages. Looks like I have a lot more work to do!
 
 
-Source: Marcus [Average dissertation and thesis length, take two](https://beckmw.wordpress.com/2014/07/15/average-dissertation-and-thesis-length-take-two/)
+Source: [Average dissertation and thesis length, take two](https://beckmw.wordpress.com/2014/07/15/average-dissertation-and-thesis-length-take-two/)
 
 
 ![Thesis Length](/images/thesis_length.png)
