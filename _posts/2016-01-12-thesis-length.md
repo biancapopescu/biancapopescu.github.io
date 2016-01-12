@@ -14,4 +14,4 @@ After asking myself how long does this thesis actually need to be, I decided to 
 Source: Marcus [Average dissertation and thesis length, take two](https://beckmw.wordpress.com/2014/07/15/average-dissertation-and-thesis-length-take-two/)
 
 
-![Thesis Length](/images/thesis_length.pdf)
+![Thesis Length](/images/thesis_length.png)
