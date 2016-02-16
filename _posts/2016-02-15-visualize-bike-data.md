@@ -4,7 +4,7 @@ title:  "Visualizing Bicycle Data"
 date:   2016-02-15 08:19:34
 categories:  
 ---
-A question transportation professionals often have is how can we communicate all this information and data in a visually appealing and interesting way. 
+A question transportation professionals often have is how can we communicate all this information and data we have in a visually appealing and interesting way. 
 
 Divvy BikeShare in Chicago publically released 2013 ridership data, and hosted a competition to encourage people to analyze this data and present it in cool and innovative ways. The question was, how does this relatively recent transportation solution (BikeShare Divvy in Chicago was introduced that same year - 2013) affect the way people travel?
 
