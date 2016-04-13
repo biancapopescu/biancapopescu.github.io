@@ -4,7 +4,9 @@ title:  "Bicycle Safety: Infrastructure Analysis"
 date:   2016-01-17 08:19:34
 categories:  
 ---
-For a past transportation engineering safety class, I wrote a [report](http://biancapopescu.info/blogData/Transportation_Sustainable_World.pdf) studying the effectiveness of bicycle infrastructure safety treatments and their implication to traffic, pedestrian and cyclist mobility. The report ranked bicycle infrastructure found in the City of Vancouver based on its cost, perceived safety benefits and substantive (real) safety benefits. The report used a literature review and a measure called “Collision Modification Factors” to show the expected change in safety performance associated with the corresponding change in bicycle infrastructure. The following types of infrastructure were studied:
+For a past transportation engineering safety class, I wrote a [report](http://biancapopescu.info/blogData/Transportation_Sustainable_World.pdf) studying the effectiveness of bicycle infrastructure safety treatments and their implication to traffic, pedestrian and cyclist mobility. 
+
+The report ranked bicycle infrastructure found in the City of Vancouver based on its cost, perceived safety benefits and substantive (real) safety benefits. The report used a literature review and a measure called “Collision Modification Factors” to show the expected change in safety performance associated with the corresponding change in bicycle infrastructure. The following types of infrastructure were studied:
 
 ![Bicycle Infrastructure](/images/Infrastructure_Analysis.png)
 
