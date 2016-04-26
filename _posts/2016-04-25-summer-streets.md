@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NYC's Summer Streets Safety Analysis"
-date:   2016-04-26 08:19:34
+date:   2016-04-25 08:19:34
 categories:  
 ---
 
