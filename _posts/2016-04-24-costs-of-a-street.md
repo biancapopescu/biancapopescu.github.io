@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Cost of a Street"
-date:   2016-01-24 08:19:34
+date:   2016-04-24 08:19:34
 categories:  
 ---
 What is the cost of a street? Specifically, what is the cost of public realm amenities those of us that live in dense urban areas take for granted? Toronto’s complex St Clair Avenue West and Vaughan Road intersection has been analyzed by The Grid in 2013 to set a price on how much it costs to put it all together. 
