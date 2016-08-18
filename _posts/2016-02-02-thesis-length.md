@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Procrastination: How long should a thesis be?"
-date:   2016-01-12 08:19:34
+date:   2016-02-02 08:19:34
 categories:  
 ---
 Writing a thesis is definitely a major undertaking and sometimes I feel overwhelmed by the length of it.
