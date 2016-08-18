@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bicycle Safety: Infrastructure Analysis"
-date:   2016-01-17 08:19:34
+date:   2016-03-07 08:19:34
 categories:  
 ---
 For a past transportation engineering safety class, I wrote a [report](http://biancapopescu.info/blogData/Transportation_Sustainable_World.pdf) studying the effectiveness of bicycle infrastructure safety treatments and their implication to traffic, pedestrian and cyclist mobility. 
