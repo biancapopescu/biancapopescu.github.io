@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visualizing Bicycle Data"
-date:   2016-02-15 08:19:34
+date:   2016-05-15 08:19:34
 categories:  
 ---
 A question transportation professionals often have is how can we communicate all this information and data we have in a visually appealing and interesting way. 
